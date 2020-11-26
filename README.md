@@ -1,5 +1,5 @@
 ## About Project
-ClientStore (cliend side) will be published soon
+[ClientStore] (https://github.com/uratadze/laravel-ClientStore) is already published
 
 This project is available to anyone, You can edit and use or modify it as you like, For this you need to follow the following steps to run this project:
 - [php artisan migrate](https://laravel.com/docs/8.x/migrations)
